@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyPersonalDetails</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="YourName">Name</string>
+    <string name="YourAge">Age</string>
+    <string name="YourDOB">Date of Birth</string>
+    <string name="name">Name</string>
+    <string name="title_activity_second">secondActivity</string>
+    <string name="dataEntered">You have entered following data:</string>
+    <string name="date">dd/mm/yyyy</string>
+</resources>
